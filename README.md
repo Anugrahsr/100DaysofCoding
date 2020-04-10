@@ -1,6 +1,6 @@
 # #100DaysofCoding
 >Features my daily progress on the 100DaysOfCode challenge on Twitter!!
-
+>My achievements in [Codecademy](https://www.codecademy.com/users/AnugrahSR/achievements)
 ## Day 1
 Taking inspiration from other programmers and devlopers across the world doing #100DaysOfCode challenge, I started mine.
 Utilizingthe Codecademy scholership for Students Affected by COVID-19, i got a pro subsciption.
